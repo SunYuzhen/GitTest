@@ -12,3 +12,5 @@ test gui
 test branch dev
 
 test conflict in dev
+
+test --no-ff
